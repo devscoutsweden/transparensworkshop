@@ -1,0 +1,15 @@
+Minuter	Vad?
+0	Folk kommer + vad är transparens för dig? + Associationsleken
+10	“Välkommen hit, vi drar ihop det här seminariet för att...”
+15	Presentation av tanken
+30	···
+40	Smågruppsdiskussioner
+50	···
+60	···
+70	Presentation av resultat från smågruppsdiskussioner
+80	···
+90	Storgruppsdiskussion
+100	Hur går vi vidare?
+110	/dev/scout-propaganda
+120	One more thing… (kanske)
+
