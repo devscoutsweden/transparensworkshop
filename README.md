@@ -6,4 +6,4 @@ Vad kan vi kräva att styrelsen, arrangemangsgrupper och scoutkårer redovisar? 
 Seminariet belyser ur olika synvinklar de avvägningar vi måste göra för att kunna ingå avtal med leverantörer, hantera personuppgifter säkert och behålla vårt goda anseende, samtidigt som alla medlemmar är införstådda med de beslut som fattas, vi har högt i tak i diskussioner och ingen far illa.
 
 ## Copyleft
-This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
+Hela workshopen är licensierad under Creative Commons Attribution-ShareAlike 3.0 Unported License. Se hela licensen på http://creativecommons.org/licenses/by-sa/3.0/.
