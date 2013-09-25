@@ -1,8 +1,6 @@
-Transparensseminarium Scoutforum 2013    Johan Manner och Emil Tullstedt
-========================================================================
-
 # En genomskinlig organisation? - Seminarium om transparens
-Kort sammanställning av åsikter och idéer från seminariediskussionen – inte nödvändigtvis komplett. Saknar du något, ändra eller maila jmanner@kth.se för rättelse.
+Kort sammanställning av åsikter och idéer från seminariediskussionen – inte nödvändigtvis komplett.
+Saknar du något, ändra eller maila jmanner@kth.se för rättelse.
 
 ### Fråga ett: Är det ett misslyckande varje gång det står något negativt om Scouterna i pressen?
 
